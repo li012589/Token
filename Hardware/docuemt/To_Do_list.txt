@@ -1,0 +1,23 @@
+			Welcome to JRT token project!
+
+			This JRT token proj.'s to-do list
+
+				Ver.Alpha
+
+
+
+Ranked by emergance
+
+0).use git or github for project management.
+1).use microUSB ins
+2).use microUSB for charging batteries.
+3).separte USART from IIC.
+4).support SPI (clock function support).
+5).changable LED display.
+
+
+Hosted By Li S.H.@li012589li@163.com  
+	  Lv Y.X.@376324017@qq.com
+
+locate at JinLin Univ. robot team Jinlin University,South QianWei ChangChun 	  	          Jilin Prov. China
+

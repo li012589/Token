@@ -1,0 +1,20 @@
+
+Part     Value                         Device                        Package               Library                    Sheet
+
+C1       22pf                          CC0402                        C0402                 eagle-ltspice              1
+C2       22pf                          CC0402                        C0402                 eagle-ltspice              1
+C4       0.1uf                         CPOL-USD/7343-31W             D/7343-31W            adafruit                   1
+IC1      MEGA16-A                      MEGA16-A                      TQFP44                atmel                      1
+IC2      7805DT                        7805DT                        TO252                 adafruit                   1
+LED1                                   LEDCHIPLED_0805               CHIPLED_0805          led                        1
+.........
+LED100                                 LEDCHIPLED_0805               CHIPLED_0805          led                        1
+Q2       16m                           CRYSTALHC49UP                 HC49UP                crystal                    1
+R3       10k                           R-US_R0201                    R0201                 rcl                        1
+R1       15k                           R-TRIMM64W                    RTRIM64W              resistor                   1
+R2       1.5k                          R-US_R0201                    R0201                 rcl                        1
+......(except R3 !!!)
+R22      1.5k                          R-US_R0201                    R0201                 rcl                        1
+S1       SWITCH-MOMENTARY-2-SMD-1101NE SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE SparkFun-Electromechanical 1
+S2       SWITCH-MOMENTARY-2-SMD-1101NE SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE SparkFun-Electromechanical 1
+
